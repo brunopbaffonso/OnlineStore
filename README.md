@@ -14,9 +14,9 @@ I want to continue adding content to this example, but if you want to contribute
 To use and build this example you will need to use the latest version of Visual Studio (Community, Professional or Enterprise).
 
 
-==================================================================================================================================
 In Brazilian Portuguese
 Em Português Brasileiro
+
 
 # LojaVirtual
 Um Loja Online básica implementada seguindo a abordagem de Design Orientado a Domínio (DDD, do inglês).
