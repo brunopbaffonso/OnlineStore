@@ -13,8 +13,9 @@ I want to continue adding content to this example, but if you want to contribute
 
 To use and build this example you will need to use the latest version of Visual Studio (Community, Professional or Enterprise).
 
-In Brazilian Portuguese
+
 ==================================================================================================================================
+In Brazilian Portuguese
 Em Português Brasileiro
 
 # LojaVirtual
